@@ -7,7 +7,7 @@
 - [Business 360 Views](#business-360-views)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
-- [Tools & Technologies](#tools-&-technologies)
+- [Tools&Technologies](#tools-&-technologies)
 - [Business Terminology](#business-terminology)
 
 ### Overview:
