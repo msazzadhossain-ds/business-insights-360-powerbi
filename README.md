@@ -7,7 +7,7 @@
 - [Business 360 Views](#business-360-views)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
-- [Tools & Technologies](#tools-technologies)
+- [Tools and Technologies](#tools-and-technologies)
 - [Business Terminology](#business-terminology)
 
 ### Overview:
@@ -50,7 +50,7 @@ To create comprehensive business 360 (finance, sales, marketing, supply chain & 
 - Product advertisement needs to expand more in the low Net Sales generated regions.
 - The supply chain team needs to apply more strategies to increase Forecast Accuracy %.
 
-### Tools & Technologies: 
+### Tools and Technologies: 
 1.	Power BI
 2.	SQL
 3.	Excel
