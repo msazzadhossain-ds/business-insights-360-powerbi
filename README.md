@@ -24,11 +24,11 @@ To create comprehensive business 360 (finance, sales, marketing, supply chain & 
 5. Design different views dashboard & Insights
 
 ### Business 360 Views
-**Finance View:** Explored major KPIs (Net Sales, Gross Margin % & Net Profit %), built P & L Statement, Net Sales trend, etc.
-**Sales View:** Analyzed the performance of the customers by key metrics like Net Sales, Gross Margin %, etc.
-**Marketing View:** Analyzed the performance of the products by key metrics like Net Sales, Gross Margin %, Net Profit %, etc.
-**Supply Chain View:** Explored Forecast Accuracy %, Net Error, Risk for product, category, customer, etc.
-**Executive View:** Consolidated top insights (Net Sales, Revenue Contribution, Gross Margin %, Net Profit %, etc.) from all dimensions of business views for executives.
+1. **Finance View:** Explored major KPIs (Net Sales, Gross Margin % & Net Profit %), built P & L Statement, Net Sales trend, etc.
+2. **Sales View:** Analyzed the performance of the customers by key metrics like Net Sales, Gross Margin %, etc.
+3. **Marketing View:** Analyzed the performance of the products by key metrics like Net Sales, Gross Margin %, Net Profit %, etc.
+4. **Supply Chain View:** Explored Forecast Accuracy %, Net Error, Risk for product, category, customer, etc.
+5. **Executive View:** Consolidated top insights (Net Sales, Revenue Contribution, Gross Margin %, Net Profit %, etc.) from all dimensions of business views for executives.
 
 
 ### Key Insights:
